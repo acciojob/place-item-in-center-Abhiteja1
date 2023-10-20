@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+body, html{
+	display:flex;
+}
 .holder{
 	display:flex;
 	height:100vh;
